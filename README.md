@@ -1,39 +1,31 @@
 # PCB Designing Guide
 
-## Introduction to PCB Design
+Welcome to my **PCB Designing** repository! In this repository, I will share **PCB design projects** that I have done and give a brief idea about **schematic creation**, **PCB layout**, and **manufacturing processes**. Additionally, I will cover essential **theories**, **key terminologies**, and important **industry standards** that I have learned in my journey, which form the foundation of PCB designing. Whether you're a beginner or an experienced designer, this repository will serve as a comprehensive resource for **PCB design knowledge**.
 
-Welcome to the **PCB Designing Guide** repository! This guide covers the essential concepts, terminologies, and processes involved in designing printed circuit boards (PCBs). It is structured to help beginners understand the basics of PCB design, progressing to more advanced topics.
+## Table of Contents
+1. [Introduction to PCB Design](1_introduction_to_pcb_design.md)
+2. [Schematic Design](2_schematic_design.md)
+3. [PCB Layout](3_pcb_layout.md)
+4. [Bill of Materials (BOM)](4_bom.md)
+5. [Component Libraries](5_component_libraries.md)
+6. [Synchronization Between Schematic and Layout](6_synchronization.md)
+7. [3D Model View](7_3d_model_view.md)
+8. [Common PCB File Types](8_common_file_types.md)
+9. [Advanced Tools](9_advanced_tools.md)
 
-### Table of Contents
+## How to Use
+- Navigate through the sections using the links in the table of contents.
+- Each section covers a specific aspect of PCB design, offering explanations, examples, and best practices.
+- For practical applications, you can find example files in the `examples/` directory.
 
-1. **Introduction to PCB Design**  
-   - What is Printed Circuit Board (PCB) Design?
-   - Key Terminologies in PCB Design
-   - Importance of PCB Design in Electronics
+## Example Files
+- [Schematic Example](examples/schematic_example.sch)
+- [PCB Layout Example](examples/pcb_layout_example.pcb)
+- [BOM Example](examples/bom_example.csv)
+- [Component Library Example](examples/component_library_example.lib)
 
-*Coming Soon:*
-- Schematic Design
-- PCB Layout
-- Bill of Materials (BOM)
-- Component Libraries
-- Synchronization Between Schematic and Layout
-- 3D Model View
-- Common PCB File Types
-- Advanced Tools and Techniques
+## Contributing
+Feel free to fork the repository and contribute by adding your insights, improvements, or additional examples. Pull requests are welcome!
 
-### What You'll Learn
-
-In this guide, we’ll cover:
-- Basic concepts and terminology in PCB design.
-- The role of CAD tools in creating schematics and PCB layouts.
-- Key steps involved in creating a PCB, from the initial schematic to the layout and BOM generation.
-  
-### Getting Started
-
-This repository will be organized into individual Markdown files, each covering a specific topic in the PCB design process.
-
-### How to Use
-
-- Navigate through the guide to learn about each stage of PCB design.
-- Check out our example files (coming soon) to see real PCB design files and formats.
-
+## License
+This repository is licensed under the [MIT License](LICENSE).
