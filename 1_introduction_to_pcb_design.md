@@ -3,6 +3,11 @@
 ## What is Printed Circuit Board (PCB) Design?
 
 Printed Circuit Board (PCB) design is the process of creating a physical board that connects various electronic components using electrical pathways or **traces**. A PCB serves as the foundation for most electronic devices, providing a compact and organized way to interconnect components like resistors, capacitors, microcontrollers, and more. The design process includes creating the circuit diagram (schematic), laying out the components on the board(pcb layout), and ensuring proper connections between them. All electronic devices you use in your home, from smartphones to refrigerators, rely on PCBs to function properly. Without a well-designed PCB, these devices would not work as intended.
+<p align="center">
+  <img src="images/download.jpg" alt="PCB Image" width="500" height="300" />
+  <br>
+  PCB image
+</p>
 
 ## Key Terminologies in PCB Design
 
