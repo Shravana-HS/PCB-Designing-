@@ -10,15 +10,31 @@ Schematic design is the first step in designing a PCB (Printed Circuit Board). I
    - Every component in a schematic is represented by a symbol that matches its physical form on the PCB.
    - Common components in schematics include resistors, capacitors, transistors, ICs (integrated circuits), and op-amps (operational amplifiers).
    - Using standard symbols ensures consistency and helps make the design easy to understand.
+<p align="center">
+  <img src="images/symbol.jpg" alt="PCB Image" width="500" height="300" />
+  <br>
+  Symbols for some common circuit elements
+</p>
 
 ### 2. **Connections and Nets**
    - A **net** is an electrical connection between components.
    - You create connections by drawing lines, or "wires," between component pins that need to be connected.
    - Nets ensure that components are linked correctly, making the design easier to follow and less prone to mistakes.
 
+<p align="center">
+  <img src="images/nets.png" alt="PCB Image" width="500" height="300" />
+  <br>
+  nets
+</p>
+
 ### 3. **Power and Ground Connections**
    - Properly connecting power and ground is crucial for making sure the circuit works correctly.
    - Power lines (like Vcc) and ground (GND) should be clearly defined and correctly connected to avoid confusion and ensure stability.
+<p align="center">
+  <img src="images/vcc.png" alt="PCB Image" width="500" height="300" />
+  <br>
+  power and ground connection
+</p>
 
 ### 4. **Design Rules and Constraints**
    - When designing a schematic, you must define certain constraints, like the tolerance of resistors or the voltage ratings of capacitors.
